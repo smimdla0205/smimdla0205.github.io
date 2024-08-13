@@ -117,10 +117,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/smimdla0205"
     # - label: "Instagram"
-      # icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-           icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    # icon: "fab fa-fw fa-instagram"
+    # url: "https://instagram.com/"
+    #     icon: "fas fa-fw fa-link"
+    # url: "https://your-website.com"
 
 # Site Footer
 footer:
@@ -130,7 +130,7 @@ footer:
       url: "https://github.com/smimdla0205"
     # - label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
-      # url:
+    # url:
 
 # Reading Files
 include:
