@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "react"
-  - url: /categories/
+  - title: "React"
+  - url: /react/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

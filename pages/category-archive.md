@@ -1,7 +1,7 @@
 ---
-title: "Category"
+title: "React"
 layout: "categories"
-permalink: /categories/
+permalink: /react/
 author_profile: true
 sidebar_main: true
 ---
